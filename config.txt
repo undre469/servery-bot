@@ -1,0 +1,2 @@
+[settings]
+proxy_= g8xduqch.na.thordata.net:9999:td-customer-oazHq2qn4m76-country-us:TztCSw72t431
