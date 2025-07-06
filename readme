@@ -1,11 +1,23 @@
-Zaxbys Free Big Zax Forever/Store Ranking exploit
+SNG Survey/Zaxbys Free Big Zax Forever/Store Ranking exploit with Vaild codes Gen
+updated06/25/25
+going to try to make a bot that gen survey codes to get big zak/(storeranking?)
+need to find proxys that change ip per used 
+find a web automation lib for the code
+update06/30/25
+got code to work using (https://www.selenium.dev/documentation/webdriver/)
+added where i can imput a list of name and comment so it using chatgpt for the comment to make life easy also for the proxy i used residential proxy so it can bypass the ip limt phone data can also be used 
+was able to get 5 reviews in need to up the speed to every 3 sec to do imputs
+update07/01/25
+Found out that it is used for the store ranking will be doing more testing to see if anyone is watching out for bots
 update07/3/25
 will be sending in over 400 survey to see if anyone in the IT Department/
 security will notice at all
 update07/05/25
 its is used to for store ranking marketing came to talk about the store 
 may need to send in the exploit i early before more testing can be done
-its looks like no one in IT is seeing/checking the all of the imputs im doing as a bot which is kind of upseting see how big of a company and base in atl 
+its looks like no one in IT is seeing/checking the all of the imputs im doing as a bot which is kind of upseting see how big of a company and base in atl
+ update07/06/25
+ smg survey is the program being used afer reading the doc i was able to see all you need is the store numbers to gen code which im guessing is how i got it to work so now i can see if this can work at diff places to see if i can recrate the some thing over but i might need to tweak the bot
 (Steps to recrate)
 Get 5 to 8 receipts(8 is a good to shot for)
 Find the first 4 numbers you will need to find the numbers to repeat the most 
